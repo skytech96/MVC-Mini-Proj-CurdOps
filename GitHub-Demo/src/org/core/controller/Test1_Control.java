@@ -8,6 +8,6 @@ public class Test1_Control {
 	
 		Test2 t = new Test2();
 		System.out.println(t.area(5));
-		System.out.println("prem first git program");
+		System.out.println("github is chutiya");
 	}
 }
