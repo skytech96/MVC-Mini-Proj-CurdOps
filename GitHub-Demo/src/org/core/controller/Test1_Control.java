@@ -7,7 +7,9 @@ public class Test1_Control {
 	public static void main(String[] args) {
 		//create object
 		Test2 t = new Test2();
+
 		System.out.println(t.area(5));
 		System.out.println("github ki maa ki aankh");
+		System.out.println("wtf black panther 2 is coming");
 	}
 }
