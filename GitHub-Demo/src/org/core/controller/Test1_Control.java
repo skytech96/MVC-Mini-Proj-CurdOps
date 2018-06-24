@@ -8,6 +8,6 @@ public class Test1_Control {
 		//create object
 		Test2 t = new Test2();
 		System.out.println(t.area(5));
-		System.out.println("github is real...chutiya");
+		System.out.println("github is...chutiya");
 	}
 }
