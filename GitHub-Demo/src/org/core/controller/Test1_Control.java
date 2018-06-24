@@ -8,6 +8,7 @@ public class Test1_Control {
 		//create object
 		Test2 t = new Test2();
 		System.out.println(t.area(5));
+		// stashing this
 		System.out.println("github is...chutiya");
 	}
 }
