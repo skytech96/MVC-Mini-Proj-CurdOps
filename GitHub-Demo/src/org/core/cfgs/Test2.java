@@ -7,5 +7,4 @@ public class Test2 {
 		return 3.14*r*r;
 		//prem 
 	}
-	
 }
