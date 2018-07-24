@@ -1,0 +1,4 @@
+SQL> create table mvc_irctc(tktno number(4) primary key, name varchar2(12), age number(2), src varchar2(12), 
+			des varchar2(12), mob number(10), quota varchar2(10), berth varchar2(10));
+
+	SQL> create sequence irctc_seq start with 1000 increment by 1;
